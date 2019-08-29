@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;resources&apos; to &apos;FrontEnd&apos;&#x0D;&#x0A;- Original project: &apos;jj&apos;&#x0D;&#x0A;- Destination element: &apos;FrontEnd&apos;&#x0D;&#x0A;- Original element: &apos;jj/src/main/resources&apos;" description="Copy source folder" element1="/src\/main\/resources" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1563882829430" target="/FrontEnd" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\GrocessoryProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1777527701.index
+1904483241.index
+1990831937.index
+58199069.index
+3396323236.index
+1280000277.index
